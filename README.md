@@ -92,9 +92,9 @@ The MDCT is fully invertible and satisfies the Princen–Bradley condition for p
 - FIR filtering in the MDCT domain
 
 Purpose:
-✔ Reduce pre-echo  
-✔ Redistribute quantization noise temporally  
-✔ Improve perceptual quality  
+Reduce pre-echo  
+Redistribute quantization noise temporally  
+Improve perceptual quality  
 
 ---
 
